@@ -1,0 +1,9 @@
+body {
+background-color:lightblue;
+}
+
+div {
+background-color:hsl(120, 100%, 50%);
+text-align: center;
+font-size: 40px;
+}
